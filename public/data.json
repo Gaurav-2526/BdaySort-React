@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Ayush",
+        "dob" : "2022/01/1"
+    },
+    {
+        "name" : "Ayush",
+        "dob" : "2022/01/2"
+    },
+    {
+        "name" : "Bhupesh",
+        "dob" : "1999/01/1"
+    },
+    {
+        "name" : "Raj",
+        "dob"  : "2021/01/1"
+    },
+    {
+        "name" :"Chetan",
+        "dob" :"1998/01/1"
+    },
+    {
+        "name" : "Pushpendra",
+        "dob" : "1999/01/2"
+    },
+    {
+        "name" : "Pushpendra",
+        "dob" : "1999/01/3"
+    }
+]
